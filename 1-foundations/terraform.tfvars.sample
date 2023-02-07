@@ -1,4 +1,4 @@
-prefix              = "prefix"
+prefix              = "mytest"
 folder_id           = "folders/448193483798"
 billing_account_id  = "01E807-5842D8-D663F0"
 organization_domain = "ubzon.net"
